@@ -1,7 +1,7 @@
 {
-  "name": "warmwar",
+  "name": "blank",
   "version": "1.0.0",
-  "description": "warmwar within version of vue.js",
+  "description": "blank within version of vue.js",
   "author": "Seniorfish",
   "private": true,
   "scripts": {
